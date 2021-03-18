@@ -1,0 +1,30 @@
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\bin\Debug\Xeploaihocluc.exe.config
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\bin\Debug\Xeploaihocluc.exe
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\bin\Debug\Xeploaihocluc.pdb
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc.csprojAssemblyReference.cache
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\MainWindow.g.cs
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\App.g.cs
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc_MarkupCompile.cache
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc_MarkupCompile.lref
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\MainWindow.baml
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc.g.resources
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc.Properties.Resources.resources
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc.csproj.GenerateResource.cache
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc.csproj.CoreCompileInputs.cache
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc.exe
+D:\ĐẠI HỌC HL\Thầy bách\Xeploaihocluc\Xeploaihocluc\obj\Debug\Xeploaihocluc.pdb
+C:\Users\nextd\source\repos\Xeploaihocluc\bin\Debug\Xeploaihocluc.exe.config
+C:\Users\nextd\source\repos\Xeploaihocluc\bin\Debug\Xeploaihocluc.exe
+C:\Users\nextd\source\repos\Xeploaihocluc\bin\Debug\Xeploaihocluc.pdb
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc.csprojAssemblyReference.cache
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\MainWindow.g.cs
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\App.g.cs
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc_MarkupCompile.cache
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc_MarkupCompile.lref
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\MainWindow.baml
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc.g.resources
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc.Properties.Resources.resources
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc.csproj.GenerateResource.cache
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc.csproj.CoreCompileInputs.cache
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc.exe
+C:\Users\nextd\source\repos\Xeploaihocluc\obj\Debug\Xeploaihocluc.pdb
